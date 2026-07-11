@@ -1,0 +1,7 @@
+numpy
+matplotlib
+ipywidgets
+scipy
+jupyter
+
+# Step 1
