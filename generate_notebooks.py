@@ -539,4 +539,4 @@ create_notebook("01_linear_algebra.ipynb", la_cells)
 create_notebook("02_calculus_optimization.ipynb", calc_cells)
 create_notebook("03_probability_statistics.ipynb", prob_cells)
 
-# Step 29
+# Step 30
